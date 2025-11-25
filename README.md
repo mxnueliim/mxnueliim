@@ -1,38 +1,27 @@
-## 👋 Hola, soy Manuel Ibarra  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hola, soy Manuel Ibarra  
 Soy Desarrollador Full Stack Trainee con experiencia práctica construyendo aplicaciones web utilizando Java, Laravel, PHP, MySQL, Tailwind y Angular. Vengo del área de la salud, donde desarrollé habilidades clave como comunicación efectiva, pensamiento crítico y diseño de soluciones centradas en las personas. Estoy impulsando mi transición hacia tecnología para crear productos digitales que mejoren procesos, accesibilidad y experiencias de usuario. Busco integrarme a equipos donde pueda seguir creciendo como desarrollador y aportar con una mirada humana y resolutiva.
 
 ---
 
-## 📊 Actividad en GitHub
 
-### **Visitas**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Actividad en GitHub
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mxnueliim&label=Visitas&color=ec4899&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=mxnueliim&label=Visitas&color=fe428e&style=flat-square" alt="Profile Views"/>
 </p>
 
-### **Streak minimal (rose-500)**
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mxnueliim&hide_border=true&background=00000000&ring=ec4899&fire=ec4899&currStreakLabel=ec4899&stroke=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxnueliim&theme=radical" alt="Profile Summary"/>
 </p>
 
-### **Estadísticas generales (rose theme)**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxnueliim&show_icons=true&hide_border=true&title_color=ec4899&icon_color=ec4899&text_color=ededed&bg_color=00000000" />
-</p>
-
-### **Lenguajes más utilizados (compacto & minimal)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnueliim&layout=compact&hide_border=true&title_color=ec4899&text_color=ededed&bg_color=00000000" />
-</p>
-
-### **Contribuciones animadas (snake)**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mxnueliim/mxnueliim/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxnueliim&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxnueliim&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🧩 Tecnologías & Herramientas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tecnologías & Herramientas
 
 ### **Lenguajes**
 <p>
@@ -75,7 +64,7 @@ Soy Desarrollador Full Stack Trainee con experiencia práctica construyendo apli
 
 ---
 
-## 🚀 Proyecto Destacado
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Proyectos Destacados
 
 ### 🔹 **Vanadio — Plataforma de Gestión Integral de Recursos Humanos**  
 https://www.vanadio.cl
@@ -94,6 +83,6 @@ Tecnologías destacadas en el proyecto: **Laravel, PHP, MySQL, TailwindCSS, Vue.
 
 ---
 
-## 📫 Contacto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="25" height="25" /> Contacto
 - GitHub: https://github.com/mxnueliim  
 - LinkedIn: https://www.linkedin.com/in/fonomanuelibarram/
